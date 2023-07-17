@@ -1,0 +1,20 @@
+Vlad ;Bakymenko ;Male ;85.0;Music 
+
+Sonya ;Burdelna ;Female ;38.0;Biolygy  
+
+Yuroslav ;Gabryk ;Male ;75.0;Law 
+
+Yulana ;Goncharyk ;Female ;55.0;Marketing 
+
+Nikita ;Moroka ;Male ;80.0;Algerba 
+
+Dima ;Moskovchyk ;Male ;120.0;Math 
+
+Alex ;Nikiforov ;Male ;66.0;Geog 
+
+Max ;Prachyk ; Male ;78.0; Computer eng 
+
+Valia ;Prachyk ;Female ;50.0;Art 
+
+Valia ;Thymbalyk ;Female ;45.0; English  
+
